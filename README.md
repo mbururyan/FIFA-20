@@ -15,7 +15,7 @@ TBD
 
 This is a passion project as I grew up playing Fifa, and have done so for more than 10 years.
 
-Another motivation is to practice my analystical and visualization skills.
+Another motivation is to practice my analytical and visualization skills.
 
 ## Languages used
 - Python
